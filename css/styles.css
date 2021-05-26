@@ -1,5 +1,10 @@
 body {
     background-color:teal;
     color:whitesmoke;
+}
 
+.profile-image {
+    width: 200px;
+    height: auto;
+    float: right;
 }
