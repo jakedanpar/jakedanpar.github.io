@@ -1,7 +1,8 @@
 body {
-    background-color:teal;
-    color:aliceblue;
+    background-color:whitesmoke;
+    color:midnightblue ;
     position: absolute;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .profile-image {
